@@ -1,0 +1,347 @@
+nav{
+	background-color: #000000;
+	color: white;
+}
+
+.nav-bar{
+	display: flex;
+	justify-content: space-between ;
+	align-items: center;
+}
+.links ul li{
+	display: inline ;
+}
+.links ul li a{
+	color: white;
+	text-decoration: none;
+	padding: 0 15px 0 15px;
+}
+.links{
+	margin-top: 15px;
+}
+
+.link i{
+	padding-right: 15px;
+}
+
+.logo{
+	background-image: url('../img/kali.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 44px;
+	width: 100px;
+}
+
+.home{
+	background-image: url('../img/bg-home.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	color: white;
+}
+
+.home h1{
+	font-size: 67px;
+    padding-top: 387px;
+}
+
+.home h4{
+	color: #777777;
+
+}
+
+.home .hireme{
+	background-color: #ff6699;
+    border-color: black;
+}
+
+.about{
+	background-image: url('../img/bg-about.png');
+	background-size: cover;
+	height: 900px;
+	padding-top: 50px;
+	color: white;
+
+}
+
+.blue{
+	margin-bottom: 31px ;
+	width: 85px;
+	height: 5px;
+	background-color: #ff6699;
+}
+
+.picture{
+	background-image: url('../img/pic.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 65vh;
+	color: white;
+	
+}
+
+.description li{
+	font-size: 24px;	
+	list-style: none;
+}
+
+.description i{
+	color: #ff9933;
+	padding-right: 15px;
+}
+
+.text1 li{
+	font-size: 30px;	
+	list-style: none;
+
+}
+.text2 li{
+	list-style: none;
+	padding: 5px;
+	
+
+}
+.text2 i {
+	color: #ff9933;
+	margin-top: 41px;
+}
+
+.hello1{
+	font-size: 30px;
+}
+ 
+.hello2{
+	font-size: 30px;
+}
+
+.hello1 li{
+	list-style: none;
+	padding: 10px 0 8px 0;
+}
+
+.hello2 li{
+	list-style: none;
+	padding: 10px 0 8px 0;
+}
+
+.hello2 ul{
+	padding-top: 64px;
+} 
+
+.hello1 i{
+	color: #ff9933;
+	padding-right: 15px;
+}
+
+.hello2 i{
+	color: #ff9933;
+	padding-right: 15px;
+}
+
+.hi1 {
+	font-size: 30px;
+}
+
+
+.hi1 li{
+	list-style: none;
+}
+
+.hi1 ul li{
+	font-size: 23px;
+	padding: 10px 0 8px 0;
+}
+
+.hi1 i{
+	color: #ff9933;
+	padding-right: 15px;
+}
+
+.hi2 li{
+	list-style: none;
+}
+
+.hi2 ul li{
+	font-size: 23px;
+	padding: 10px 0 8px 0;
+
+}
+
+.hi2 i{
+	color: #ff9933;
+	padding-right: 15px;
+}
+
+.hi2 ul{
+	padding-top: 45px;
+
+}
+
+.go1 li{
+	list-style: none;
+
+}
+
+.go2 li{
+	list-style: none;
+
+}
+
+
+.go3 li{
+	list-style: none;
+
+} 
+
+
+.go4 li{
+	list-style: none;
+
+}
+
+.go1 {
+	font-size: 30px;
+}
+ 
+.go2 {
+	font-size: 30px;
+}
+
+.go3 {
+	font-size: 30px;
+}
+
+.go4 {
+	font-size: 30px;
+}
+
+.go1 ul li{
+	font-size: 23px;
+	padding: 10px 0 8px 0;
+
+}
+
+.go2 ul li{
+	font-size: 23px;
+	padding: 10px 0 8px 0;
+
+}
+
+.go3 ul li{
+	font-size: 23px;
+	padding: 10px 0 8px 0;
+
+}
+
+.go4 ul li{
+	font-size: 23px;
+	padding: 10px 0 8px 0;
+
+}
+
+.go1 i{
+	color: #ff9933;
+	padding-right: 15px;
+}
+
+.go2 i{
+	color: #ff9933;
+	padding-right: 15px;
+}
+
+
+.go3 i{
+	color: #ff9933;
+	padding-right: 15px;
+}
+
+
+.go4 i{
+	color: #ff9933;
+	padding-right: 15px;
+}
+
+
+.photo1{
+	font-size: 23px;
+}
+
+.photo2{
+	font-size: 23px;
+}
+
+.photo3{
+	font-size: 23px;
+}
+
+.photo1{
+	background-image: url('../img/hi1.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 38vh;
+}
+.photo2{
+	background-image: url('../img/hi2.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 34vh;
+
+}
+.photo3{
+	background-image: url('../img/hi3.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 30vh;
+
+}
+
+.photo3{
+	color: black;
+}
+
+.photo2{
+	color: red;
+}
+
+.ge1{
+	font-size: 30px;
+}
+
+.ge1 li{
+
+}
+
+
+.con1{
+	font-size: 30px;
+}
+
+.con1 li{
+	list-style: none;
+	padding: 10px 0 8px 0;
+}
+
+
+.con2{
+	font-size: 30px;
+}
+
+.con2 li{
+	list-style: none;
+	padding: 10px 0 8px 0;
+}
+
+
+
+.con3 {
+	font-size: 30px;
+}
+
+.con3 li{
+	list-style: none;
+	
+}
+
+
+
+
